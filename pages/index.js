@@ -58,7 +58,7 @@ const weather = () => {
           <div style={{ marginTop: "50px" }}>
             <div style={{ display: "flex", color: "#922B21" }}>
               <MdLocationOff />
-              <div>No Location Found :(</div>
+              <div>No Location Found</div>
             </div>
           </div>
         ) : (
