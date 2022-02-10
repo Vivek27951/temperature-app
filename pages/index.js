@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import { FaTemperatureHigh, FaSearchLocation } from "react-icons/Fa";
-import { MdLocationOff, MdLocationOn } from "react-icons/Md";
+import { FaTemperatureHigh, FaSearchLocation } from "react-icons/fa";
+import { MdLocationOff, MdLocationOn } from "react-icons/md";
 
 const weather = () => {
   const [temp, setTemp] = useState({});
